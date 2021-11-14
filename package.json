@@ -1,0 +1,27 @@
+{
+  "name": "code-academy-parcel-service--caps-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node events-pool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-/issues"
+  },
+  "homepage": "https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
