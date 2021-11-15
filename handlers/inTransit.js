@@ -1,7 +1,5 @@
 "use strict";
 
-const events = require("../hub");
-
 function inTransit(payload) {
   // daclare new date
   let date = new Date();
@@ -15,7 +13,7 @@ function inTransit(payload) {
     payload: payload,
   };
   console.log("EVENT", inTRansitEvent);
-  events.emit("delivered", payload);
+  // events.emit("delivered", payload);
 }
 
 module.exports = inTransit;

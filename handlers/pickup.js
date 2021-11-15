@@ -1,7 +1,5 @@
 "use strict";
 
-const events = require("../hub");
-
 function pickup(payload) {
   // daclare new date
   let date = new Date();
@@ -15,8 +13,8 @@ function pickup(payload) {
     payload: payload,
   };
   console.log("EVENT", pickupEvent);
-  console.log(`DRIVER: Picked up ${payload.orderId}`);
-  events.emit("in-transit", payload);
+  // console.log(`DRIVER: Picked up ${payload.orderId}`);
+  // events.emit("in-transit", payload);
 }
 
 module.exports = pickup;
