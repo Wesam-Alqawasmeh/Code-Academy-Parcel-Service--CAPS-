@@ -34,4 +34,4 @@
 
 [GitHub actions](https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-/actions)
 
-[Pull request](https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-/pull/1)
+[Pull request](https://github.com/Wesam-Alqawasmeh/Code-Academy-Parcel-Service--CAPS-/pull/2)
