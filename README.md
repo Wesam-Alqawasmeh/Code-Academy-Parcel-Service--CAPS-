@@ -8,20 +8,25 @@
 
 1. Fork the repo and clone it.
 2. `npm i` to install the dependencies
-3. `TO START => npm start`
+3. TO RUN on console:
+
+- `node hub.js`
+- `node driver.js`
+- `node vendor.js`
+
 4. `TO TEST => npm test`
 
 ---
 
 ## UML
 
-![uml](./img/lab11UML.png)
+![uml](./img/lab12UML.png)
 
 ---
 
 ## Example of an output for an oreder:
 
-![output](./img/401-lab11.png)
+![output](./img/401-lab12.png)
 
 ---
 
