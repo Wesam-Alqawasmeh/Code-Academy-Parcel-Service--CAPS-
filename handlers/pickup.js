@@ -17,6 +17,7 @@ function pickup(payload) {
   console.log("EVENT", pickupEvent);
   console.log(`DRIVER: Picked up ${payload.orderId}`);
   events.emit("in-transit", payload);
+  // events.emit("pickup", payload);
 }
 
 module.exports = pickup;
