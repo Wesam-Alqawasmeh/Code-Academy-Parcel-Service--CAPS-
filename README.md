@@ -26,7 +26,8 @@
 
 ## Example of an output for an oreder:
 
-![output](./img/401-lab12.png)
+![output](./img/401-lab13a.png)
+![output](./img/401-lab13b.png)
 
 ---
 
